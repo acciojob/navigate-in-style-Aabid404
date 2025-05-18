@@ -1,3 +1,9 @@
+.container {
+  display: block; 
+  visibility: visible;
+  opacity: 1;
+}
+
 .nav-bar {
   background-color: #D3D3D3;
   padding: 10px;
